@@ -1,0 +1,13 @@
+{
+  "Name": "huyle/328/hello",
+  "Description": "Pair-program: Pets",
+  "Author": [
+    {
+      "Name": "Huy Le",
+      "Email": "Huy.le@greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
