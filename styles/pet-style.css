@@ -1,0 +1,24 @@
+h1{
+    font-size: 48px;
+    text-align: center;
+    color: #730c40;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-radius: 25px;
+}
+
+.anchor{
+    color: #a8ad97;
+    text-decoration: none;
+}
+a.anchor{
+    text-align: center;
+
+}
+body{
+    background: #e3e4e0;
+}
